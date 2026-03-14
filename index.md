@@ -11,7 +11,7 @@ Multi-cloud expertise across AWS, OCI, and Azure.
 - TitanAlert - Real-time Notifications
 
 ## Claude AI Implementation Practice
-Kascade Security is a member of the **Claude Partner Network** — Anthropic's program for organizations helping enterprises adopt Claude safely.
+Kascade Security has **applied to the Claude Partner Network** — Anthropic's program for organizations helping enterprises adopt Claude safely.
 
 We specialize in deploying Claude within regulated environments where compliance isn't optional:
 - HIPAA-compliant AI workflows for healthcare SaaS teams
